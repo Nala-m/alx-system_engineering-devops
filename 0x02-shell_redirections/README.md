@@ -1,1 +1,1 @@
-Two files
+Display a file
