@@ -1,1 +1,1 @@
-duplicate last line
+display a file
