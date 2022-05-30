@@ -1,1 +1,1 @@
-line 2
+No more javascript
