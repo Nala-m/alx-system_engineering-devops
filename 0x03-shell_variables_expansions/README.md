@@ -1,1 +1,1 @@
-odd number
+Instant star
